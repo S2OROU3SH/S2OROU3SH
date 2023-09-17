@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @S2OROU3SH
+- 👀 I’m interested in sience
+- 🌱 I’m currently learning python
